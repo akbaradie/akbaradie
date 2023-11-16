@@ -8,7 +8,8 @@
 
 ## ⚙ Latest Projects
 | Projects | Description |
-
+| ----------- | ----------- |
+| [FIFA 21 Data Cleaning & Data Visualization](https://github.com/akbaradie/)| |
 
 ## 🔍 You Can Find Me at
 <p>
