@@ -9,7 +9,7 @@
 ## ⚙ Latest Projects
 | Projects | Description |
 | ----------- | ----------- |
-| [FIFA 21 Data Cleaning & Data Visualization](https://github.com/akbaradie/)| |
+| FIFA 21 Data Cleaning & Data Visualization (on progress)| Cleaning, exploring, and making visualization from FIFA 21 messy/raw dataset using Python.|
 
 ## 🔍 You Can Find Me at
 <p>
