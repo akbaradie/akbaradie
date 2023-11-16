@@ -1,4 +1,4 @@
-#  Hi there, I'm Akbar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+#  Hi there, I'm Akbar Adi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - ⚡ I'm Graduated from Bangkit 2022 Program specializing in Machine Learning.
