@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - ⚡ I'm Graduated from Bangkit 2022 Program specializing in Machine Learning.
-- <img align="top" src="https://s3.us-east-1.amazonaws.com/accredible-api-templates/15784284048332915386973343827272.png" height="25px"/><a href="[https://pdf.credential.net/y8l6pbel_1660060455745.pdf](https://pdf.credential.net/j7oj7zpv_1700112606008.pdf)" target="_blank"> TensorFlow Developer Certified</a>
+- <img align="top" src="https://s3.us-east-1.amazonaws.com/accredible-api-templates/15784284048332915386973343827272.png" height="25px"/><a href="https://pdf.credential.net/j7oj7zpv_1700112606008.pdf" target="_blank"> TensorFlow Developer Certified</a>
 - 🔭 I'm currently explore data science and data analyst.
 - 🌱 **"Creating and playing masterpiece"**
 
