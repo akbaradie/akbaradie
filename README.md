@@ -3,7 +3,7 @@
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - ⚡ I'm Graduated from Bangkit 2022 Program specializing in Machine Learning.
 - <img align="top" src="https://s3.us-east-1.amazonaws.com/accredible-api-templates/15784284048332915386973343827272.png" height="25px"/><a href="https://pdf.credential.net/j7oj7zpv_1700112606008.pdf" target="_blank"> TensorFlow Developer Certified</a>
-- 🔭 I'm currently explore data science and data analyst.
+- 🔭 I'm currently developing my interest to data science, data analysis, and machine learning.
 - 🌱 **"Creating and playing masterpiece"**
 - 📫 Reach me on akbaradie@gmail.com!
 
