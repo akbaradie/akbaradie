@@ -5,6 +5,7 @@
 - <img align="top" src="https://s3.us-east-1.amazonaws.com/accredible-api-templates/15784284048332915386973343827272.png" height="25px"/><a href="https://pdf.credential.net/j7oj7zpv_1700112606008.pdf" target="_blank"> TensorFlow Developer Certified</a>
 - 🔭 I'm currently explore data science and data analyst.
 - 🌱 **"Creating and playing masterpiece"**
+- 📫 Reach me on akbaradie@gmail.com!
 
 ## ⚙ Latest Projects
 | Projects | Description |
