@@ -29,6 +29,11 @@ IDEs that I personally use:
 
 ![Google Colaboratory](https://colab.research.google.com/assets/colab-badge.svg) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+Tech Stacks & Frameworks I plan to study:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
 ## 🔍 You Can Find Me at
 <p>
   <a href="https://www.linkedin.com/in/akbar-adi-nugroho/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
