@@ -1,8 +1,12 @@
 #  Hi there, I'm Akbar Adi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
-  ![Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbaradie&show_icons=true&theme=radical)
-  
-  ![Akbar's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akbaradie&show_icons=true&theme=radical)
+### Github Statistic
+<p align="left">
+<a href="https://github.com/akbaradie">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akbaradie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akbaradie&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 - 👀 I’m interested in machine learning and enjoy exploring everything about data
 - ⚡ I'm Graduated from Bangkit 2022 Program specializing in Machine Learning.
