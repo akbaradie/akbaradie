@@ -21,7 +21,7 @@
 | [FIFA 21 Data Cleaning & EDA](https://github.com/akbaradie/fifa21-cleaning-EDA) | Cleaning, exploring, and making visualization from FIFA 21 messy/raw dataset using Python.|
 | [Fruit Classification Using TensorFlow](https://github.com/C23-PS045/NutriFruity) | Classify images to 12 types of fruits using CNN (TensorFlow) and deploy the model using TFLite to Android. |
 | [Coffe Orders Dashboard Using Excel](https://github.com/akbaradie/coffee-dashboard) | Practicing INDEX and VLOOKUP function in Excel, doing some EDA using pivot table, and making sales dashboard. |
-| Ongoing | |
+| [Credit Scoring (Home Credit)](https://github.com/akbaradie/home-credit-scoring) | Practicing EDA and consuments segmentation, data cleansing, data preprocessing (one hot, PCA, imbalance data), build ML models, and evaluate the models |
 
 ## ⚡ My Expertise
 
